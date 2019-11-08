@@ -12,7 +12,7 @@
 		9BC4FEDE23761C7F0078E8CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4FEDC23761C7F0078E8CA /* Main.storyboard */; };
 		9BC4FEE023761C800078E8CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4FEDF23761C800078E8CA /* Assets.xcassets */; };
 		9BC4FEE323761C800078E8CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BC4FEE123761C800078E8CA /* LaunchScreen.storyboard */; };
-		9BC4FEEB23761DD40078E8CA /* NotesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC4FEEA23761DD40078E8CA /* NotesTableViewController.swift */; };
+		9BD8D3D223762C6B00E0FBA4 /* NotesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD8D3D123762C6B00E0FBA4 /* NotesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		9BC4FEDF23761C800078E8CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BC4FEE223761C800078E8CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BC4FEE423761C800078E8CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9BC4FEEA23761DD40078E8CA /* NotesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NotesTableViewController.swift; path = ../../NotesTableViewController.swift; sourceTree = "<group>"; };
+		9BD8D3D123762C6B00E0FBA4 /* NotesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +59,10 @@
 				9BC4FED823761C7F0078E8CA /* AppDelegate.swift */,
 				9BC4FEDA23761C7F0078E8CA /* ViewController.swift */,
 				9BC4FEDC23761C7F0078E8CA /* Main.storyboard */,
-				9BC4FEEA23761DD40078E8CA /* NotesTableViewController.swift */,
 				9BC4FEDF23761C800078E8CA /* Assets.xcassets */,
 				9BC4FEE123761C800078E8CA /* LaunchScreen.storyboard */,
 				9BC4FEE423761C800078E8CA /* Info.plist */,
+				9BD8D3D123762C6B00E0FBA4 /* NotesTableViewController.swift */,
 			);
 			path = alisha_765497_notes;
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			files = (
 				9BC4FEDB23761C7F0078E8CA /* ViewController.swift in Sources */,
 				9BC4FED923761C7F0078E8CA /* AppDelegate.swift in Sources */,
-				9BC4FEEB23761DD40078E8CA /* NotesTableViewController.swift in Sources */,
+				9BD8D3D223762C6B00E0FBA4 /* NotesTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
